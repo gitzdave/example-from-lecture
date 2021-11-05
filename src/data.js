@@ -1,0 +1,42 @@
+export const studentDatabase = [
+  {
+    name: "Jamie Pordoy",
+    studentNumber: "1212121",
+    email: "1212121@Student.uwl.ac.uk",
+    university: "UWL",
+    course: "Computer Science",
+    result: "1st Class BSC (hons)",
+  },
+  {
+    name: "Mihael Bisbing",
+    studentNumber: "1312121",
+    email: "1312121@Student.uwl.ac.uk",
+    university: "UWL",
+    course: "Computer Science",
+    result: "2/1 BSC",
+  },
+  {
+    name: "Maria Sharivonkiva",
+    studentNumber: "1212133",
+    email: "1212133@Student.uwl.ac.uk",
+    university: "UWL",
+    course: "Software Engineering",
+    result: "2/1 BSC",
+  },
+  {
+    name: "Kisha Bligeh",
+    studentNumber: "1214121",
+    email: "1214121@Student.uwl.ac.uk",
+    university: "UWL",
+    course: "Game Development",
+    result: "1st Class BSC (hons)",
+  },
+  {
+    name: "Mark Smith",
+    studentNumber: "1232121",
+    email: "1232121@Student.uwl.ac.uk",
+    university: "UWL",
+    course: "Computer Science",
+    result: "2/2 BSC ",
+  },
+ ];
